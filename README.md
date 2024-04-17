@@ -1,4 +1,5 @@
-# ROG_PL
+![image](https://github.com/Iewoaixil/ROG_PL/assets/66995416/73efd318-82dc-4a61-81c5-c1b405ee5592)
+# ROG_PL: Robust Open-Set Graph Learning via Region-Based Prototype Learning
 
 ## Installation
 
