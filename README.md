@@ -1,8 +1,9 @@
-![image](https://github.com/Iewoaixil/ROG_PL/assets/66995416/73efd318-82dc-4a61-81c5-c1b405ee5592)
 # ROG_PL: Robust Open-Set Graph Learning via Region-Based Prototype Learning
+## Introduction
+The source code and models for our paper ROG_PL: Robust Open-Set Graph Learning via Region-Based Prototype Learning
+## Framework
 
 ## Installation
-
 Before to execute ROG_PL, it is necessary to install the following packages:
 
 * torch
@@ -27,8 +28,12 @@ The project is organised as follows:
 
 ## Basic Usage
 
-### Example
+### For train
+```shell
+python train.py
+```
 
+### For test
 ```shell
 python train.py
 ```
