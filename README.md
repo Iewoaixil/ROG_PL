@@ -29,15 +29,11 @@ The project is organised as follows:
 
 ## Basic Usage
 
-### For train
+### Example
 ```shell
 python train.py
 ```
 
-### For test
-```shell
-python test.py
-```
 
 ## Cite
 ```
