@@ -38,11 +38,6 @@ python train.py
 python train.py
 ```
 
-## Acknowledgement
-```
-This research was supported by National Natural Science Foundation of China (62206179, 92270122), Guangdong Provincial Natural Science Foundation (2022A1515010129, 2023A1515012584), University stability support program of Shenzhen (20220811121315001), Shenzhen Research Foundation for Basic Research, China (JCYJ20210324093000002).
-```
-
 ## Cite
 ```
 @inproceedings{zhang2024rog,
@@ -55,6 +50,7 @@ This research was supported by National Natural Science Foundation of China (622
   year={2024}
 }
 ```
-
+## Paper download link
+<https://doi.org/10.1609/aaai.v38i8.28788>
 
 
