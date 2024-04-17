@@ -2,7 +2,7 @@
 ## Introduction
 The source code and models for our paper ROG_PL: Robust Open-Set Graph Learning via Region-Based Prototype Learning
 ## Framework
-!image[https://github.com/Iewoaixil/ROG_PL/blob/main/framework.jpg]
+![image](https://github.com/Iewoaixil/ROG_PL/blob/main/framework.jpg)
 
 ## Installation
 Before to execute ROG_PL, it is necessary to install the following packages:
