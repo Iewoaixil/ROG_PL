@@ -33,13 +33,13 @@ The project is organised as follows:
 python train.py
 ```
 
-##Acknowledgement
-```shell
+## Acknowledgement
+```
 This research was supported by National Natural Science Foundation of China (62206179, 92270122), Guangdong Provincial Natural Science Foundation (2022A1515010129, 2023A1515012584), University stability support program of Shenzhen (20220811121315001), Shenzhen Research Foundation for Basic Research, China (JCYJ20210324093000002).
 ```
 
-##Cite
-```shell
+## Cite
+```
 @inproceedings{zhang2024rog,
   title={ROG_PL: Robust Open-Set Graph Learning via Region-Based Prototype Learning},
   author={Zhang, Qin and Li, Xiaowei and Lu, Jiexin and Qiu, Liping and Pan, Shirui and Chen, Xiaojun and Chen, Junyang},
