@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import torchvision
-import numpy as np
+import numpy as np 
 
 seed = 0
 random.seed(seed)
